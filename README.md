@@ -1,2 +1,2 @@
 # Optical-Mark-Recognition
-Optical MArk Recognition using computer vision
+Optical Mark Recognition using computer vision
